@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/257/trunk/docs/rst
+END
+test.rst
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/181/trunk/docs/rst/test.rst
+END
+tmp.rst
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/250/trunk/docs/rst/tmp.rst
+END
+star.png
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/181/trunk/docs/rst/star.png
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/443/trunk/docs/rst/Makefile
+END
+first.rst
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/187/trunk/docs/rst/first.rst
+END
+mydoc.css
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/187/trunk/docs/rst/mydoc.css
+END
+tmp.html
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/257/trunk/docs/rst/tmp.html
+END
